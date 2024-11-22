@@ -10,4 +10,8 @@ class DailyEnergyExpenditure < ApplicationRecord
 
   validates :age, :weight, :height, :activity, presence: true
 
+  validates :weight, numericality: true
+
+  validates :age, :height, numericality: { only_integer: true }
+
 end
