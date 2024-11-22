@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  sedentary: "Sedentary (office job)"
+  light_exercise: "Light Exercise (1-2 days/week)"
+  moderate_exercise: "Moderate Exercise (3-5 days/week)"
+  heavy_exercise: "Heavy Exercise (6-7 days/week)"
+  athlete: "Athlete (2x per day)"
+
+
